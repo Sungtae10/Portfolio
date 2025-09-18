@@ -6,4 +6,5 @@
 - AI, ML, DL
 
 ## 라이브 데모
-- 포트폴리오 사이트: 
+- 포트폴리오 사이트: https://sungtae10.github.io/Portfolio/
+- MBTI Game 사이트: 
